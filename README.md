@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/notanut/nft-preview-card.git](https://github.com/notanut/nft-preview-card.git)
+- Live Site URL: [https://nft-preview-card-livid.vercel.app/](https://nft-preview-card-livid.vercel.app/)
 
 ## My process
 
